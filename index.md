@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+你还要多少时间才能去认识自己
 
 You can use the [editor on GitHub](https://github.com/Freedomvae/my-free/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
